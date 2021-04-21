@@ -1,2 +1,3 @@
 # Brainfuck-fuzz-project
-Brainfuck fuzzing project
+
+What it? idk
