@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test-smoke.dir/smoke.c.o -o test-smoke  ../libbrainfuck.a 

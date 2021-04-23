@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/brainfuck-cli.dir/src/main.c.o -o brainfuck  libbrainfuck.a /usr/lib/x86_64-linux-gnu/libedit.so 

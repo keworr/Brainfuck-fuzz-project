@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/brainfuck.h
+
+/home/kali/brainfuck/src/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+getopt.h
+-
+ctype.h
+-
+editline/readline.h
+-
+io.h
+-
+unistd.h
+-
+brainfuck.h
+-
+

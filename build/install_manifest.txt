@@ -1,0 +1,5 @@
+/usr/local/lib/libbrainfuck.a
+/usr/local/share/brainfuck/cmake/brainfuck-config.cmake
+/usr/local/share/brainfuck/cmake/brainfuck-config-noconfig.cmake
+/usr/local/bin/brainfuck
+/usr/local/share/man/man1/brainfuck.1
